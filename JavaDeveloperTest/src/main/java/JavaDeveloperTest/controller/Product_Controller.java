@@ -15,7 +15,7 @@ import JavaDeveloperTest.service.Product_Interface;
 @SuppressWarnings("unused")
 public class Product_Controller {
 
-	
+	//this class is controller
 	 
 	@Autowired
 	private Product_Interface product_Interface;
